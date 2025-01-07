@@ -1,4 +1,5 @@
 ## 1st Place Winner of the Inclusivity in Healthcare category
+Collaborative project developed as part of Waterloo Women in Engineering Hackathon
 
 Plate Check provides gender-specific, personalized nutritional insights to address nutrition gaps and improve women’s overall health.
 
